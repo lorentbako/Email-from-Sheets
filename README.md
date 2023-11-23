@@ -4,6 +4,7 @@ Send an E-mail from gmail using Google sheets by utilizing Google App script.
 This function in Google App Script can help you qucikly send an table as an email directly from google sheets.
 
 How it works?
+
 First create a button Send Email and assign the script sendEmail 
 (create a button by going to Insert>Drawing then choose a Shape then Save And Close, 
 then on the button that you just created click it and on the upper right three dots after you click them you'll see Assign script, assign the script sendEmail)
